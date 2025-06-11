@@ -1,2 +1,2 @@
 # Custom_ROM
-ROM
+ROM EvoX
